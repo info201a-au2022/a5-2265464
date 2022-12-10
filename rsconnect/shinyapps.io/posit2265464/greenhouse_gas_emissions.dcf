@@ -1,0 +1,13 @@
+name: greenhouse_gas_emissions
+title: greenhouse_gas_emissions
+username:
+account: posit2265464
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7862136
+bundleId: 6619226
+url: https://posit2265464.shinyapps.io/greenhouse_gas_emissions/
+when: 1670655008.44086
+lastSyncTime: 1670655008.44087
+asMultiple: FALSE
+asStatic: FALSE
